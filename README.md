@@ -17,3 +17,7 @@
 #Exercício 008 - Conversor de medidas
 
 #Exercício 009 - Tabuada
+
+#Exercício 010 - Conversor de moedas
+
+#Cálculo de quantidade de tinta por metro quadrado
