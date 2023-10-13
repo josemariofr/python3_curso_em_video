@@ -29,3 +29,9 @@
 #Exercício 014 - Conversor de temperatura
 
 #Exercício 015 - Cálculo de km rodados para locadora de veículos
+
+#Exercício 016 - Crie um programa que leia um número real e mostre sua porção inteira
+
+#Exercício 017 - Calculando cateto e hipotenusa
+
+#Exercício 018 - Calculando seno, cosseno e tangente
