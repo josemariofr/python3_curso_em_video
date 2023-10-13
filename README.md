@@ -20,4 +20,12 @@
 
 #Exercício 010 - Conversor de moedas
 
-#Cálculo de quantidade de tinta por metro quadrado
+#Exercício 011 - Cálculo de quantidade de tinta por metro quadrado
+
+#Exercício 012 - Calculando descontos
+
+#Exercício 013 - Calculando aumento de salário
+
+#Exercício 014 - Conversor de temperatura
+
+#Exercício 015 - Cálculo de km rodados para locadora de veículos
