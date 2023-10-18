@@ -35,3 +35,9 @@
 #Exercício 017 - Calculando cateto e hipotenusa
 
 #Exercício 018 - Calculando seno, cosseno e tangente
+
+#Exercício 019 - Sorteio
+
+#Exercício 020 - Soteando sequência
+
+#Exercício 021 - Tocando MP3
