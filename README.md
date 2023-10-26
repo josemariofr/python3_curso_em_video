@@ -45,3 +45,11 @@
 #Exercício 022 - Análise de nome
 
 #Exercício 023 - Separando números
+
+#Exercício 024 - Verificando primeiras letras de um 
+
+#Exercício 025 - Procurando uma string dentro de outra
+
+#Exercício 026 - Primeira e última ocorrência de um string
+
+#Exercício 027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
