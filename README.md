@@ -53,3 +53,5 @@
 #Exercício 026 - Primeira e última ocorrência de um string
 
 #Exercício 027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+#Exercício 028 = Adivinhando número
