@@ -56,4 +56,12 @@
 
 #Exercício 028 - Adivinhando número
 
-#Exercício 029 - Radra Eeletrônico
+#Exercício 029 - Radar Eletrônico
+
+#Exerecício 030 - Par ou ímpar
+
+#Exercício 031 - Cálculo de passagem
+
+#Exercício 032 - Ano bissexto
+
+#Exercício 033 - Número maior e menor
