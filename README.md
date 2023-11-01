@@ -58,10 +58,14 @@
 
 #Exercício 029 - Radar Eletrônico
 
-#Exerecício 030 - Par ou ímpar
+#Exercício 030 - Par ou ímpar
 
 #Exercício 031 - Cálculo de passagem
 
 #Exercício 032 - Ano bissexto
 
 #Exercício 033 - Número maior e menor
+
+#Exercício 034 - Aumentos múltiplos
+
+#Exercício 035 - Análise de triângulos
