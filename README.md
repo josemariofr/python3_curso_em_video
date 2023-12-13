@@ -69,3 +69,78 @@
 #Exercício 034 - Aumentos múltiplos
 
 #Exercício 035 - Análise de triângulos
+
+#Exercício 036 - Aprovando Empréstimo
+
+#Exercício 037 - Conversor de Bases Numéricas
+
+#Exercício 038 - Comparando números
+
+#Exercício 039 - Alistamento Militar
+
+#Exercício 040 - Aquele clássico da Média
+
+#Exercício 041 - Classificando Atletas
+
+#Exercício 042 - Analisando Triângulos v2.0
+
+#Exercício 043 - Índice de Massa Corporal
+
+#Exercício 044 - Gerenciador de Pagamentos
+
+#Exercício 045 - GAME: Pedra Papel e Tesoura
+
+#Exercício 046 - Contagem regressiva
+
+#Exercício 047 - Contagem de pares
+
+#Exercício 048 - Soma ímpares múltiplos de três
+
+#Exercício 049 - Tabuada v.2.0
+
+#Exercício 050 - Soma dos pares
+
+#Exercício 051 - Progressão Aritmética
+
+#Exercício 052 - Números primos
+
+#Exercício 053 - Detector de Palíndromo
+
+#Exercício 054 - Grupo da Maioridade
+
+#Exercício 055 - Maior e menor da sequência
+
+#Exercício 056 - Analisador completo
+
+#Exercício 057 - Validação de Dados
+
+#Exercício 058 - Jogo da Adivinhação
+
+#Exercício 059 - Criando um Menu de Opções
+
+#Exercício 060 - Cálculo do Fatorial
+
+#Exercício 061 - Progressão Aritmética v2.0
+
+#Exercício 062 - Super Progressão Aritmética v3.0
+
+#Exercício 063 - Sequência de Fibonacci v1.0
+
+#Exercício 064 - Tratando vários valores v1.0
+
+#Exercício 065 -  Maior e Menor valores
+
+#Exercício 066 - Vários números com flag
+
+#Exercício 067 - Tabuada v3.0
+
+#Exercício 068 - Jogo do Par ou Ímpar
+
+#Exercício 069 - Análise de dados do grupo
+
+#Exercício 070 - Estatísticas em produtos
+
+#Exercício 071 - Simulador de Caixa Eletrônico
+
+#Exercício 072 - 
+
