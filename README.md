@@ -142,5 +142,4 @@
 
 #Exercício 071 - Simulador de Caixa Eletrônico
 
-#Exercício 072 - 
-
+#Exercício 072 - Número por extenso
