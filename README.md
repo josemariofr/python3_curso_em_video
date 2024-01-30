@@ -145,3 +145,5 @@
 #Exercício 072 - Número por extenso
 
 #Exercício 073 - Tuplas com times
+
+#Exercício 074 - Maior e menor valores em Tupla
