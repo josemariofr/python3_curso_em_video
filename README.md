@@ -143,3 +143,5 @@
 #Exercício 071 - Simulador de Caixa Eletrônico
 
 #Exercício 072 - Número por extenso
+
+#Exercício 073 - Tuplas com times
