@@ -147,3 +147,9 @@
 #Exercício 073 - Tuplas com times
 
 #Exercício 074 - Maior e menor valores em Tupla
+
+#Exercício 075 - Análise de Dados em uma Tupla
+
+#Exercício 076 - Lista de preços com Tupla
+
+#Exercício 077 - Contando vogais em Tupla
