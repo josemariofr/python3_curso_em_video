@@ -153,3 +153,7 @@
 #Exercício 076 - Lista de preços com Tupla
 
 #Exercício 077 - Contando vogais em Tupla
+
+#Exercício 078 - Maior e menor valores na lista
+
+#Exercício 079 - Valores únicos em uma lista
