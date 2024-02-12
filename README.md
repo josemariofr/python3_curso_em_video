@@ -165,3 +165,7 @@
 #Exerecíco 082 - Dividindo valores em várias listas
 
 #Exercício 083 - Validando expressões matemáticas
+
+#Exercício 084 - Lista composta e análise de dados
+
+#Exercício 085 - Listas com pares e ímpares
