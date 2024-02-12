@@ -157,3 +157,11 @@
 #Exercício 078 - Maior e menor valores na lista
 
 #Exercício 079 - Valores únicos em uma lista
+
+#Exercício 080 - Lista ordenada sem repetições
+
+#Exercício 081 - Extraindo dados em uma lista
+
+#Exerecíco 082 - Dividindo valores em várias listas
+
+#Exercício 083 - Validando expressões matemáticas
