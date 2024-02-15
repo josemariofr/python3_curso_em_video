@@ -169,3 +169,5 @@
 #Exercício 084 - Lista composta e análise de dados
 
 #Exercício 085 - Listas com pares e ímpares
+
+#Exercício 086 - Matriz em Python
