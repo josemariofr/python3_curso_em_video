@@ -171,3 +171,5 @@
 #Exercício 085 - Listas com pares e ímpares
 
 #Exercício 086 - Matriz em Python
+
+#Exercício 087 - Mais matrizes
