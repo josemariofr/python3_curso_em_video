@@ -173,3 +173,7 @@
 #Exercício 086 - Matriz em Python
 
 #Exercício 087 - Mais matrizes
+
+#Exercício 088 - Palpites da Mega Sena
+
+#Exercício 089 - Boletim com listas compostas
