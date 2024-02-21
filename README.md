@@ -177,3 +177,7 @@
 #Exercício 088 - Palpites da Mega Sena
 
 #Exercício 089 - Boletim com listas compostas
+
+#Exercício 090 - Dicionário em Python
+
+#Exercício 091 - Jogo de Dados em Python
