@@ -181,3 +181,7 @@
 #Exercício 090 - Dicionário em Python
 
 #Exercício 091 - Jogo de Dados em Python
+
+#Exercício 092 - Cadastro de Trabalhadores
+
+#eXERCÍCIO 093 - Cadastro de Jogador de Futebol
