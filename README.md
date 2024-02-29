@@ -184,4 +184,6 @@
 
 #Exercício 092 - Cadastro de Trabalhadores
 
-#eXERCÍCIO 093 - Cadastro de Jogador de Futebol
+#Exercício 093 - Cadastro de Jogador de Futebol
+
+#Exercício 094 - Unindo dicionários e listas
