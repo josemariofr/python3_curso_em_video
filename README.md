@@ -189,3 +189,13 @@
 #Exercício 094 - Unindo dicionários e listas
 
 #Exercício 095 - Aprimorando dicionários
+
+#Exercício 096 - Função que calcula área
+
+#Exercício 097 - Um Print Especial
+
+#Exercício 098 - Função decontador
+
+#Exercício 099 - Função que descobre o maior
+
+#Exercício 100 - Funções para sortear e somar
