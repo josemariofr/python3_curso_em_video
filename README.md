@@ -203,3 +203,9 @@
 #Exercício 101 - Funções para votação
 
 #Exercício 102 - Modularização
+
+#Exercício 103 - Ficha do Jogador
+
+#Exercício 104 - Validando entrada de dados
+
+#Exercício 105 - Analisando e gerando dicionários
