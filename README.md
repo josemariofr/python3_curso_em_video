@@ -199,3 +199,7 @@
 #Exercício 099 - Função que descobre o maior
 
 #Exercício 100 - Funções para sortear e somar
+
+#Exercício 101 - Funções para votação
+
+#Exercício 102 - Modularização
