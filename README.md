@@ -209,3 +209,5 @@
 #Exercício 104 - Validando entrada de dados
 
 #Exercício 105 - Analisando e gerando dicionários
+
+#Exercício 106 - Interactive Help
