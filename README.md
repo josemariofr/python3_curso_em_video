@@ -211,3 +211,5 @@
 #Exercício 105 - Analisando e gerando dicionários
 
 #Exercício 106 - Interactive Help
+
+#Exercício 107 - Exercitando módulos
