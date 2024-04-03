@@ -213,3 +213,11 @@
 #Exercício 106 - Interactive Help
 
 #Exercício 107 - Exercitando módulos
+
+#Exercício 108 - Formatando moedas em Python
+
+#Exercício 109 - Reduzindo ainda mais seu programa
+
+#Exercício 110 - Transformando módulos em pacotes
+
+#Exercício 111 - Entrada de dados monetários
