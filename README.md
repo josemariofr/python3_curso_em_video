@@ -216,8 +216,12 @@
 
 #Exercício 108 - Formatando moedas em Python
 
-#Exercício 109 - Reduzindo ainda mais seu programa
+#Exercício 109 - Formatando moedas em Python
 
-#Exercício 110 - Transformando módulos em pacotes
+#Exercício 110 - Reduzindo ainda mais seu programa
 
-#Exercício 111 - Entrada de dados monetários
+#Exercício 111 - Transformando módulos em pacotes
+
+#Exercício 112 - Entrada de dados monetários
+
+#Exercício 113 - Funções aprofundadas em Python
