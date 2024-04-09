@@ -225,3 +225,11 @@
 #Exercício 112 - Entrada de dados monetários
 
 #Exercício 113 - Funções aprofundadas em Python
+
+#Exercício 114 - Site está acessível
+
+#Exercício 115a - Criando um Menu
+
+#Exercício 115b - Arquivos com Python
+
+#Exercício 115c - Finalizando o projeto
